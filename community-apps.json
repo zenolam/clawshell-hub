@@ -1,0 +1,212 @@
+[
+  {
+    "appId": "developer",
+    "name": "Developer",
+    "summary": "Product and engineering collaboration workspace for PRD, tech design, and documentation.",
+    "description": "A comprehensive workspace for product managers and developers to collaborate on documentation, requirements, technical designs, and code. Features Product and Developer agents for AI-assisted content generation.",
+    "repo": "clawshell-apps/developer",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/developer/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/developer/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "development"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "academic",
+    "name": "Academic",
+    "summary": "Academic research and writing workspace for papers, theses, and scholarly work.",
+    "description": "Research workspace for academic writing, literature review, and citation management.",
+    "repo": "clawshell-apps/academic",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/academic/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/academic/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "research"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "design",
+    "name": "Design",
+    "summary": "UI/UX design workspace for wireframes, prototypes, and design documentation.",
+    "description": "Design workspace for UI/UX professionals to create wireframes, prototypes, and design specifications.",
+    "repo": "clawshell-apps/design",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/design/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/design/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "design"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "engineering",
+    "name": "Engineering",
+    "summary": "Engineering workspace for technical specifications and system design.",
+    "description": "Engineering workspace for technical specifications, system design, and documentation.",
+    "repo": "clawshell-apps/engineering",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/engineering/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/engineering/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "engineering"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "game-development",
+    "name": "Game Development",
+    "summary": "Game development workspace for design docs, mechanics, and narrative.",
+    "description": "Game development workspace for game design documents, mechanics design, and narrative writing.",
+    "repo": "clawshell-apps/game-development",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/game-development/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/game-development/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "gaming"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "marketing",
+    "name": "Marketing",
+    "summary": "Marketing workspace for campaigns, content strategy, and brand guidelines.",
+    "description": "Marketing workspace for campaign planning, content strategy, and brand documentation.",
+    "repo": "clawshell-apps/marketing",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/marketing/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/marketing/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "marketing"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "paid-media",
+    "name": "Paid Media",
+    "summary": "Paid media workspace for ad campaigns, performance tracking, and budget management.",
+    "description": "Paid media workspace for managing ad campaigns, tracking performance, and optimizing spend.",
+    "repo": "clawshell-apps/paid-media",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/paid-media/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/paid-media/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "marketing"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "product",
+    "name": "Product",
+    "summary": "Product management workspace for roadmaps, user research, and feature specs.",
+    "description": "Product management workspace for roadmaps, user research, and feature specifications.",
+    "repo": "clawshell-apps/product",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/product/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/product/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "product"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "project-management",
+    "name": "Project Management",
+    "summary": "Project management workspace for planning, tracking, and delivery.",
+    "description": "Project management workspace for project planning, task tracking, and delivery management.",
+    "repo": "clawshell-apps/project-management",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/project-management/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/project-management/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "management"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "sales",
+    "name": "Sales",
+    "summary": "Sales workspace for proposals, contracts, and customer relationship management.",
+    "description": "Sales workspace for creating proposals, managing contracts, and tracking customer relationships.",
+    "repo": "clawshell-apps/sales",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/sales/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/sales/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "sales"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "spatial-computing",
+    "name": "Spatial Computing",
+    "summary": "Spatial computing workspace for AR/VR development and immersive experiences.",
+    "description": "Spatial computing workspace for AR/VR development, 3D content, and immersive experiences.",
+    "repo": "clawshell-apps/spatial-computing",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/spatial-computing/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/spatial-computing/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "xr"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "specialized",
+    "name": "Specialized",
+    "summary": "Specialized domain workspace for industry-specific workflows.",
+    "description": "Specialized workspace for industry-specific workflows and domain expertise.",
+    "repo": "clawshell-apps/specialized",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/specialized/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/specialized/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "specialized"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "support",
+    "name": "Support",
+    "summary": "Customer support workspace for tickets, knowledge base, and service management.",
+    "description": "Customer support workspace for managing tickets, building knowledge base, and service delivery.",
+    "repo": "clawshell-apps/support",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/support/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/support/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "support"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
+    "appId": "testing",
+    "name": "Testing",
+    "summary": "Testing workspace for QA planning, test cases, and quality assurance.",
+    "description": "Testing workspace for QA planning, test case management, and quality assurance documentation.",
+    "repo": "clawshell-apps/testing",
+    "manifestUrl": "https://raw.githubusercontent.com/clawshell-apps/testing/main/manifest.json",
+    "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/testing/main/assets/icon.png",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "testing"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  }
+]

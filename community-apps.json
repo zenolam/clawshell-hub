@@ -195,6 +195,20 @@
     }
   },
   {
+    "appId": "it-team",
+    "name": "IT Team",
+    "summary": "A complete IT team with agents for marketing, product, development, testing, and operations.",
+    "description": "A complete IT team with 5 merged agents — 市场, 产品, 开发, 测试, 运营 — each synthesized from the best specialists across the ClawShell ecosystem.",
+    "repo": "zenolam/clawshell-app-it-team",
+    "manifestUrl": "https://raw.githubusercontent.com/zenolam/clawshell-app-it-team/main/manifest.json",
+    "latestVersion": "1.0.0",
+    "minShellVersion": "0.1.0",
+    "categories": ["productivity", "development"],
+    "author": {
+      "name": "ClawShell Team"
+    }
+  },
+  {
     "appId": "testing",
     "name": "Testing",
     "summary": "Testing workspace for QA planning, test cases, and quality assurance.",

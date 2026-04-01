@@ -9,7 +9,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/developer/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "development"],
+    "categories": [
+      "productivity",
+      "development"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -24,7 +27,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/academic/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "research"],
+    "categories": [
+      "productivity",
+      "research"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -39,7 +45,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/design/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "design"],
+    "categories": [
+      "productivity",
+      "design"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -54,7 +63,10 @@
     "iconUrl": "https://raw.githubusercontent.com/zenolam/clawshell-app-engineering/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "engineering"],
+    "categories": [
+      "productivity",
+      "engineering"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -69,7 +81,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/game-development/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "gaming"],
+    "categories": [
+      "productivity",
+      "gaming"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -84,7 +99,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/marketing/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "marketing"],
+    "categories": [
+      "productivity",
+      "marketing"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -99,7 +117,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/paid-media/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "marketing"],
+    "categories": [
+      "productivity",
+      "marketing"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -114,7 +135,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/product/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "product"],
+    "categories": [
+      "productivity",
+      "product"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -129,7 +153,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/project-management/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "management"],
+    "categories": [
+      "productivity",
+      "management"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -144,7 +171,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/sales/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "sales"],
+    "categories": [
+      "productivity",
+      "sales"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -159,7 +189,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/spatial-computing/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "xr"],
+    "categories": [
+      "productivity",
+      "xr"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -174,7 +207,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/specialized/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "specialized"],
+    "categories": [
+      "productivity",
+      "specialized"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -189,7 +225,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/support/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "support"],
+    "categories": [
+      "productivity",
+      "support"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -201,9 +240,12 @@
     "description": "A complete IT team with 5 merged agents — 市场, 产品, 开发, 测试, 运营 — each synthesized from the best specialists across the ClawShell ecosystem.",
     "repo": "zenolam/clawshell-app-it-team",
     "manifestUrl": "https://raw.githubusercontent.com/zenolam/clawshell-app-it-team/main/manifest.json",
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.0.1",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "development"],
+    "categories": [
+      "productivity",
+      "development"
+    ],
     "author": {
       "name": "ClawShell Team"
     }
@@ -218,7 +260,10 @@
     "iconUrl": "https://raw.githubusercontent.com/clawshell-apps/testing/main/assets/icon.png",
     "latestVersion": "1.0.0",
     "minShellVersion": "0.1.0",
-    "categories": ["productivity", "testing"],
+    "categories": [
+      "productivity",
+      "testing"
+    ],
     "author": {
       "name": "ClawShell Team"
     }

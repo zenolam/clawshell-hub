@@ -1,0 +1,102 @@
+{
+  "source": "clawshell-official",
+  "sourceUrl": "https://github.com/zenolam/clawshell-hub",
+  "skills": [
+    {
+      "skillId": "web-search",
+      "name": "Web Search",
+      "description": "Search the web for up-to-date information, news, and documentation. Supports query refinement and result summarization.",
+      "category": "research",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "web-reader",
+      "name": "Web Reader",
+      "description": "Fetch and extract content from web pages. Converts HTML to clean text or markdown for agent consumption.",
+      "category": "research",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "code-search",
+      "name": "Code Search",
+      "description": "Search codebases by pattern, function name, or content. Supports regex, glob patterns, and multi-file search.",
+      "category": "development",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "file-operations",
+      "name": "File Operations",
+      "description": "Read, write, create, and manage files and directories. Supports text editing, file watching, and batch operations.",
+      "category": "development",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "shell-exec",
+      "name": "Shell Execution",
+      "description": "Execute shell commands and scripts. Supports streaming output, timeout control, and environment configuration.",
+      "category": "development",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "git-operations",
+      "name": "Git Operations",
+      "description": "Perform git operations including commit, push, pull, branch management, diff analysis, and merge conflict resolution.",
+      "category": "development",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "data-analysis",
+      "name": "Data Analysis",
+      "description": "Analyze datasets, generate statistics, create visualizations, and extract insights from structured and unstructured data.",
+      "category": "analytics",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "api-client",
+      "name": "API Client",
+      "description": "Make HTTP requests to external APIs. Supports REST, GraphQL, authentication, rate limiting, and response parsing.",
+      "category": "integration",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "database-query",
+      "name": "Database Query",
+      "description": "Connect to and query databases (SQLite, PostgreSQL, MySQL). Execute SQL, manage schemas, and export results.",
+      "category": "data",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "document-generator",
+      "name": "Document Generator",
+      "description": "Generate structured documents including reports, summaries, API docs, and technical specifications in various formats.",
+      "category": "productivity",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "image-analysis",
+      "name": "Image Analysis",
+      "description": "Analyze images using AI vision models. Extract text (OCR), describe content, and compare visual elements.",
+      "category": "ai",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    },
+    {
+      "skillId": "task-planner",
+      "name": "Task Planner",
+      "description": "Break down complex tasks into actionable steps, manage dependencies, and track progress across multi-step workflows.",
+      "category": "productivity",
+      "version": "1.0.0",
+      "author": { "name": "ClawShell Team" }
+    }
+  ]
+}
